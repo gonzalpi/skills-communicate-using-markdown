@@ -8,3 +8,8 @@ do
   echo $number
 done
 ```
+
+- [x] Add header
+- [x] Add image
+- [x] Add code block
+- [ ] Add list
